@@ -29,7 +29,7 @@ function AddToCartButton(
       index: 0,
       attachment: "vtex.subscription.assinatura",
       content: {
-        "vtex.subscription.key.frequency": "1 month",
+        "assinatura": "mensal",
       },
     });
 
